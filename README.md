@@ -71,8 +71,10 @@ Pull requests are welcome! If you have ideas for improvements, new features, or 
 
 ## 📬 **Contact**
 
-Developed by **\Purushottam Gupta**
+Developed by **Purushottam Gupta**
+
 📧 Email: purushpttamgupta2002@gmail.com
+
 🔗 GitHub: https://github.com/Purushottam-Gup
 
 ---
