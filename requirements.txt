@@ -7,4 +7,4 @@ matplotlib
 scipy
 statsmodels
 bs4
-sklearn
+scikit-learn
